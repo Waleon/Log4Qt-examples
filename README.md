@@ -23,8 +23,8 @@
 [《第 02 课：Log4Qt 基本介绍》](http://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b2c6356072e851cae42a1c9) | ---
 [《第 03 课：获取 Log4Qt 中的 Logger》](http://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b2c6370072e851cae42a1e3) | RequestLogger
 [《第 04 课：深入理解 rootLogger、logLogger、qtLogger》](http://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b2c6385072e851cae42a1fb) | UnderstandLogger
-《第 05 课：使用环境变量配置 Log4Qt》 | EnvVarInit
-《第 06 课：使用 QSettings 配置 Log4Qt》 | QSettingsInit
+[《第 05 课：使用环境变量配置 Log4Qt》](http://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b2c639a072e851cae42a21c) | EnvVarInit
+[《第 06 课：使用 QSettings 配置 Log4Qt》](http://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b2c63b2072e851cae42a233) | QSettingsInit
 《第 07 课：使用 log4qt.properties 配置 Log4Qt》 | PropertiesInit
 《第 08 课：Log4Qt 初始化过程》 | ---
 《第 09 课：Log4Qt 日志级别》 | ---
