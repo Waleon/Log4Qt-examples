@@ -26,8 +26,8 @@
 [《第 05 课：使用环境变量配置 Log4Qt》](http://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b2c639a072e851cae42a21c) | EnvVarInit
 [《第 06 课：使用 QSettings 配置 Log4Qt》](http://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b2c63b2072e851cae42a233) | QSettingsInit
 [《第 07 课：使用 log4qt.properties 配置 Log4Qt》](https://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b2c63c8072e851cae42a244) | PropertiesInit
-《第 08 课：Log4Qt 初始化过程》 | ---
-《第 09 课：Log4Qt 日志级别》 | ---
+[《第 08 课：Log4Qt 初始化过程》](https://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b2c63e5072e851cae42a26a) | ---
+[《第 09 课：Log4Qt 日志级别》](https://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b2c6402072e851cae42a28a) | ---
 《第 10 课：Log4Qt 日志格式化（SimpleLayout）》 |  ---
 《第 11 课：Log4Qt 日志格式化（PatternLayout）》 | ---
 《第 12 课：Log4Qt 日志格式化（TTCCLayout）》 | ---
