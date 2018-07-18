@@ -17,7 +17,7 @@
 
 以下是课程的具体内容，以及示例源码：
 
-课程地址 | 课程源码
+课程地址 | 示例源码
 :--- | :--- 
 [《第 01 课：C++ 日志框架》](http://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b2c633e072e851cae42a1aa) | ---
 [《第 02 课：Log4Qt 基本介绍》](http://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b2c6356072e851cae42a1c9) | ---
