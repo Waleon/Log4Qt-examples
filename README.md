@@ -29,8 +29,7 @@
 [《第 08 课：Log4Qt 初始化过程》](https://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b2c63e5072e851cae42a26a) | ---
 [《第 09 课：Log4Qt 日志级别》](https://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b2c6402072e851cae42a28a) | LogLevel
 [《第 10 课：Log4Qt 日志格式化（PatternLayout）》](https://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b2c641a072e851cae42a2a8) | PatternLayout
-[《第 11 课：Log4Qt 日志格式化（SimpleLayout）》](https://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b2c6435072e851cae42a2c5
-) | SimpleLayout
+[《第 11 课：Log4Qt 日志格式化（SimpleLayout）》](https://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b2c6435072e851cae42a2c5) | SimpleLayout
 《第 12 课：Log4Qt 日志格式化（TTCCLayout）》 | ---
 《第 13 课：Log4Qt 输出重定向（控制台）》 | ---
 《第 14 课：Log4Qt 输出重定向（文件）》 | ---
