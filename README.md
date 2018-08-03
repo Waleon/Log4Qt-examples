@@ -34,7 +34,7 @@
 [《第 13 课：Log4Qt 输出重定向（控制台）》](https://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b2c6471072e851cae42a31b) | ConsoleAppender
 《第 14 课：Log4Qt 输出重定向（滚动多个文件）》 | RollingFileAppender
 《第 15 课：Log4Qt 输出重定向（以指定的频率滚动文件）》 | DailyRollingFileAppender
-《第 16 课：Log4Qt 输出重定向（数据库）》 | ---
+《第 16 课：Log4Qt 输出重定向（数据库）》 | DatabaseAppender
 《第 17 课：Log4Qt 配置详解》 | ---
 
 # 适宜人群
