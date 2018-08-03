@@ -32,9 +32,10 @@
 [《第 11 课：Log4Qt 日志格式化（SimpleLayout）》](https://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b2c6435072e851cae42a2c5) | SimpleLayout
 [《第 12 课：Log4Qt 日志格式化（TTCCLayout）》](https://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b2c6452072e851cae42a2e6) | TTCCLayout
 [《第 13 课：Log4Qt 输出重定向（控制台）》](https://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b2c6471072e851cae42a31b) | ConsoleAppender
-《第 14 课：Log4Qt 输出重定向（文件）》 | ---
-《第 15 课：Log4Qt 输出重定向（数据库）》 | ---
-《第 16 课：Log4Qt 配置详解》 | ---
+《第 14 课：Log4Qt 输出重定向（滚动多个文件）》 | RollingFileAppender
+《第 15 课：Log4Qt 输出重定向（以指定的频率滚动文件）》 | DailyRollingFileAppender
+《第 16 课：Log4Qt 输出重定向（数据库）》 | ---
+《第 17 课：Log4Qt 配置详解》 | ---
 
 # 适宜人群
 
