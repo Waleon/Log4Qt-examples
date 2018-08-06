@@ -35,7 +35,7 @@
 [《第 14 课：Log4Qt 输出重定向（滚动多个文件）》](https://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b2c6489072e851cae42a33e) | RollingFileAppender
 [《第 15 课：Log4Qt 输出重定向（以指定的频率滚动文件）》](https://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b2c649f072e851cae42a34f) | DailyRollingFileAppender
 [《第 16 课：Log4Qt 输出重定向（数据库）》](https://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b2c64bb072e851cae42a360) | DatabaseAppender
-[《第17课：使用自己的 Logger）》](https://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b67f32847a22a6d0f656aa8) | MyLogger
+[《第 17 课：使用自己的 Logger）》](https://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b67f32847a22a6d0f656aa8) | MyLogger
 
 # 适宜人群
 
