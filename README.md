@@ -48,3 +48,13 @@
 各位小伙伴们，欢迎猛戳：
 
 - 课程地址：[Log4j for C++ 实用指南](http://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3 "Log4j for C++ 实用指南")
+
+# 更多精彩
+
+- 个人博客：[一去、二三里](https://waleon.blog.csdn.net/ "一去、二三里")
+- 微信号：iwaleon
+- 微信公众号：高效程序员
+
+![微信公众号](https://raw.githubusercontent.com/Waleon/DesignPatterns/master/assets/qrcode.jpg)
+
+更多干货，请扫码关注微信公众号，不要太惊喜哦~
