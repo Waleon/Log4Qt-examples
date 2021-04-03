@@ -10,8 +10,9 @@ class MyLogger : public QObject
     LOG4QT_DECLARE_QCLASS_LOGGER
 
 public:
-    MyLogger() {}
-    void debug(const QString &message) { logger()->debug(message); }
+    void debug(const QString &message) {
+        logger()->debug(message);
+    }
 };
 
 #endif // MY_LOGGER_H
