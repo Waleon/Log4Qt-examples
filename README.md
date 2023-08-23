@@ -33,9 +33,9 @@
 [12. Log4Qt 日志格式化（TTCCLayout）](https://waleon.blog.csdn.net/article/details/120340711)  | TTCCLayout
 [13. Log4Qt 输出重定向（控制台）](https://waleon.blog.csdn.net/article/details/120715083)  | ConsoleAppender
 [14. Log4Qt 输出重定向（滚动多个文件）](https://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b2c6489072e851cae42a33e)  | RollingFileAppender
-[15. 第 15 课：Log4Qt 输出重定向（以指定的频率滚动文件）](https://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b2c649f072e851cae42a34f) | DailyRollingFileAppender
-[16. 第 16 课：Log4Qt 输出重定向（数据库）](https://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b2c64bb072e851cae42a360)  | DatabaseAppender
-[17. 第 17 课：使用自己的 Logger](https://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b67f32847a22a6d0f656aa8)  | MyLogger
+[15. Log4Qt 输出重定向（以指定的频率滚动文件）](https://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b2c649f072e851cae42a34f) | DailyRollingFileAppender
+[16. Log4Qt 输出重定向（数据库）](https://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b2c64bb072e851cae42a360)  | DatabaseAppender
+[17. 使用自己的 Logger](https://gitbook.cn/gitchat/column/5b2c5b29072e851cae4299f3/topic/5b67f32847a22a6d0f656aa8)  | MyLogger
 
 # 适宜人群
 
